@@ -23,33 +23,25 @@
         <div id="app"></div>
         <script>
             window.$docsify = {
-                name: "Python lessons",
-                repo: "",
+                name: 'Python lessons',
+                repo: '',
                 // loadSidebar: true,
                 auto2top: true,
 
                 search: {
-                    paths: [
-                        "/lesson1", // => /lesson1.md
-                        "/lesson2", // => /lesson2.md
-                        "/lesson3", // => /lesson3.md
-                        "/lesson4", // => /lesson4.md
-                        "/lesson5", // => /lesson5.md
-                        "/lesson6", // => /lesson6.md
-                    ],
-                    placeholder: "Type to search",
-                    noData: "No Results!",
+                    placeholder: 'Type to search',
+                    noData: 'No Results!',
                     // Headline depth, 1 - 6
                     depth: 6,
                     hideOtherSidebarContent: false, // whether or not to hide other sidebar content
                     // To avoid search index collision
                     // between multiple websites under the same domain
-                    namespace: "python",
+                    namespace: 'python',
                 },
                 copyCode: {
-                    buttonText: "Copy",
-                    errorText: "Error",
-                    successText: "Copied",
+                    buttonText: 'Copy',
+                    errorText: 'Error',
+                    successText: 'Copied',
                 },
 
                 plugins: [
@@ -57,7 +49,7 @@
                         hook.beforeEach(function (html) {
                             return (
                                 html +
-                                "\n\n----\n\n" +
+                                '\n\n----\n\n' +
                                 '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>'
                             );
                         });
