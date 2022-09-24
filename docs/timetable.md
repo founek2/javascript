@@ -1,15 +1,13 @@
 # Timetable
 
--   1. lekce - DOM, CSS3
+-   1. lekce -
 
--   2. lekce - APIs: Fetch, File, Storage
+-   2. lekce -
 
--   3. lekce - Three.js
+-   3. lekce -
 
--   4. lekce - WebSocket
+-   4. lekce -
 
--   5. lekce - PWA
+-   5. lekce -
 
--   6. lekce - WebAssembly
-
--   7. lekce - Chunked transfer, HTTP3
+-   6. lekce -
