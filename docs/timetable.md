@@ -1,6 +1,6 @@
 # Timetable
 
--   1. lekce -
+-   1. lekce - Představení [IoT Platformy](https://iotdomu.cz). Ukážeme si webové rozhraní, architekturu serverové čássti a jak to celé komunikuje se zařízeními.
 
 -   2. lekce -
 
