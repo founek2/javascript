@@ -26,7 +26,7 @@
 -   MongoDB
 -   InfluxDB - [Testovací InfluxDB](https://influx.dev.iotdomu.cz)
 -   RabbitMQ - [Testovací RabbitMQ](https://rabbit.dev.iotdomu.cz)
--   NodeRed - [Testovací NodeRed](https://flow.dev.iotdomu.cz)
+-   <s>NodeRed - [Testovací NodeRed](https://flow.dev.iotdomu.cz)</s>
 
 ### CI/CD
 
