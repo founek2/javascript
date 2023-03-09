@@ -2,7 +2,8 @@
 
 ## Webové Rozhraní
 
-[Testovací IoT Platforma](https://dev.iotdomu.cz)
+[IoT Platforma](https://iotdomu.cz)
+[IoT Platforma nově rozhraní](https://ng.iotdomu.cz)
 
 -   zaregistrujte se a řekněte si o přidání oprávnění
 
