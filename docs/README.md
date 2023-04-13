@@ -1,5 +1,7 @@
 # Pokročilé webové technologie
 
+# Nové pokročilé technologie ;)
+
 [Intro](intro.md ':include')
 
 [Lekce 1.](lesson1.md ':include')
